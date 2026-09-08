@@ -1,0 +1,7 @@
+start_directory: /home/matt/dev/projects/qmk_firmware
+session_name: qmk_firmware
+windows:
+    - window_name: editor
+      panes:
+          - shell_command:
+                - nvim
