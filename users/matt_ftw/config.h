@@ -28,6 +28,8 @@ LAYOUT_split_3x5_3( \
 #define CHORDAL_HOLD
 #define SPECULATIVE_HOLD
 
+#undef SPLIT_USB_DETECT
+
 // better home-row mods by https://sunaku.github.io/home-row-mods.html
 // #define IGNORE_MOD_TAP_INTERRUPT
 // #define BILATERAL_COMBINATIONS
